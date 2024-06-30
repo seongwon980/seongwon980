@@ -1,13 +1,9 @@
 ## Seongwon Cho
 
-### 📊 Github Stats
-<div align="center">
-<a href='https://github.com/seongwon980/github-stats-transparent'>
-        
-![Stats Overview](https://raw.githubusercontent.com/seongwon980/github-stats-transparent/output/generated/overview.svg)
-![Most Used Languages](https://raw.githubusercontent.com/seongwon980/github-stats-transparent/output/generated/languages.svg)
-</a>
-</div>
+![](https://raw.githubusercontent.com/seongwon980/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/seongwon980/github-stats/master/generated/overview.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/seongwon980/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/seongwon980/github-stats/master/generated/languages.svg#gh-light-mode-only)
 
 Hello, World! 👋
 
