@@ -8,5 +8,6 @@ I am an incoming M.S. student at Seoul National University, specializing in Arti
 - 📈 Proposing concept-incremental continual learning methods during the personalization process of T2I models.
 - 🔍 Creating realistic benchmarks for vision-language models under continual domain shift scenarios.
 
-- 📫 How to reach me: Feel free to contact me at seongwoncho@snu.ac.kr if you’d like to collaborate on research or if you have any questions.
+
+📫 How to reach me: Feel free to contact me at seongwoncho@snu.ac.kr if you’d like to collaborate on research or if you have any questions.
 
