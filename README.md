@@ -1,5 +1,9 @@
 ## Seongwon Cho
 
+### 📊 Github Stats
+<div align="center">
+<a href='https://github.com/seongwon980/github-stats-transparent'>
+  
 Hello, World! 👋
 
 I am an incoming M.S. student at Seoul National University, specializing in Artificial Intelligence. My primary research focus is on developing realistic continual learning methods for large models. The areas I am currently exploring include:
